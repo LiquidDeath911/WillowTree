@@ -7,3 +7,11 @@ E:\WillowTree\Code\willowtree-code-r312-branches-uichange\WillowTree#\Aga.Contro
 E:\WillowTree\Code\willowtree-code-r312-branches-uichange\WillowTree#\Aga.Controls\obj\Release\Aga.Controls.csproj.CoreCompileInputs.cache
 E:\WillowTree\Code\willowtree-code-r312-branches-uichange\WillowTree#\Aga.Controls\obj\Release\Aga.Controls.dll
 E:\WillowTree\Code\willowtree-code-r312-branches-uichange\WillowTree#\Aga.Controls\obj\Release\Aga.Controls.pdb
+D:\GitHub\WillowTree\Aga.Controls\bin\Release\Aga.Controls.dll
+D:\GitHub\WillowTree\Aga.Controls\bin\Release\Aga.Controls.pdb
+D:\GitHub\WillowTree\Aga.Controls\obj\Release\Aga.Controls.Properties.Resources.resources
+D:\GitHub\WillowTree\Aga.Controls\obj\Release\Aga.Controls.Tree.TreeViewAdv.resources
+D:\GitHub\WillowTree\Aga.Controls\obj\Release\Aga.Controls.csproj.GenerateResource.cache
+D:\GitHub\WillowTree\Aga.Controls\obj\Release\Aga.Controls.csproj.CoreCompileInputs.cache
+D:\GitHub\WillowTree\Aga.Controls\obj\Release\Aga.Controls.dll
+D:\GitHub\WillowTree\Aga.Controls\obj\Release\Aga.Controls.pdb
