@@ -18,3 +18,5 @@ Update v2.5.0
 
 -------------------------
 If you want to expand on this, you must use Visual Studio 2019 or recreate the components for 64 bit.
+
+![image](https://github.com/user-attachments/assets/efdcf4b9-202e-47d9-a5a7-ee659c3cd084)
