@@ -1,0 +1,8 @@
+E:\WillowTree\Code\willowtree-code-r312-branches-uichange\WillowTree#\Aga.Controls\bin\x86\Debug\Aga.Controls.dll
+E:\WillowTree\Code\willowtree-code-r312-branches-uichange\WillowTree#\Aga.Controls\bin\x86\Debug\Aga.Controls.pdb
+E:\WillowTree\Code\willowtree-code-r312-branches-uichange\WillowTree#\Aga.Controls\obj\x86\Debug\Aga.Controls.Properties.Resources.resources
+E:\WillowTree\Code\willowtree-code-r312-branches-uichange\WillowTree#\Aga.Controls\obj\x86\Debug\Aga.Controls.Tree.TreeViewAdv.resources
+E:\WillowTree\Code\willowtree-code-r312-branches-uichange\WillowTree#\Aga.Controls\obj\x86\Debug\Aga.Controls.csproj.GenerateResource.cache
+E:\WillowTree\Code\willowtree-code-r312-branches-uichange\WillowTree#\Aga.Controls\obj\x86\Debug\Aga.Controls.csproj.CoreCompileInputs.cache
+E:\WillowTree\Code\willowtree-code-r312-branches-uichange\WillowTree#\Aga.Controls\obj\x86\Debug\Aga.Controls.dll
+E:\WillowTree\Code\willowtree-code-r312-branches-uichange\WillowTree#\Aga.Controls\obj\x86\Debug\Aga.Controls.pdb
